@@ -1,0 +1,44 @@
+ros-kilted-rosidl-dynamic-typesupport-fastrtps (0.4.1-2bookworm) bookworm; urgency=high
+
+  * Switch to ament_cmake_ros_core package (#8 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/8>)
+  * Contributors: Scott K Logan
+
+ -- Brandon Ong <brandon@openrobotics.org>  Fri, 18 Apr 2025 05:00:00 -0000
+
+ros-kilted-rosidl-dynamic-typesupport-fastrtps (0.4.0-2bookworm) bookworm; urgency=high
+
+  * Changes to build against Fast DDS 3.0 (#5 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/5>)
+  * Contributors: Chris Lalancette, Miguel Company
+
+ -- Brandon Ong <brandon@openrobotics.org>  Thu, 06 Mar 2025 06:00:00 -0000
+
+ros-kilted-rosidl-dynamic-typesupport-fastrtps (0.3.0-2bookworm) bookworm; urgency=high
+
+  * Drop support for long double/float128. (#6 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/6>)
+  * Contributors: Chris Lalancette
+
+ -- Brandon Ong <brandon@openrobotics.org>  Wed, 20 Nov 2024 06:00:00 -0000
+
+ros-kilted-rosidl-dynamic-typesupport-fastrtps (0.2.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- Brandon Ong <brandon@openrobotics.org>  Fri, 26 Apr 2024 05:00:00 -0000
+
+ros-kilted-rosidl-dynamic-typesupport-fastrtps (0.1.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- Brandon Ong <brandon@openrobotics.org>  Fri, 28 Apr 2023 05:00:00 -0000
+
+ros-kilted-rosidl-dynamic-typesupport-fastrtps (0.0.2-2bookworm) bookworm; urgency=high
+
+  * Remove more unnecessary semicolons (#4 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/4>)
+  * Dynamic Subscription (BONUS: Allocators): rosidl_dynamic_typesupport_fastrtps (#3 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/3>)
+  * Remove unnecessary semicolons. (#2 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/2>)
+  * Runtime Interface Reflection: rosidl_dynamic_typesupport_fastrtps (#1 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/1>)
+  * Contributors: Chris Lalancette, methylDragon
+
+ -- Brandon Ong <brandon@openrobotics.org>  Tue, 11 Apr 2023 05:00:00 -0000
+
+
