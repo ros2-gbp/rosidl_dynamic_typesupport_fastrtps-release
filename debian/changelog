@@ -1,0 +1,58 @@
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.5.1-1bookworm) bookworm; urgency=high
+
+  * Merge pull request #11 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/11> from mosfet80/patch-1
+  * Don't automatically enable verbose makefiles. (#9 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/9>)
+  * Contributors: Chris Lalancette, mosfet80
+
+ -- Brandon Ong <brandon@openrobotics.org>  Thu, 20 Nov 2025 23:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.5.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Brandon Ong <brandon@openrobotics.org>  Thu, 24 Apr 2025 22:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.4.1-1bookworm) bookworm; urgency=high
+
+  * Switch to ament_cmake_ros_core package (#8 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/8>)
+  * Contributors: Scott K Logan
+
+ -- Brandon Ong <brandon@openrobotics.org>  Thu, 17 Apr 2025 22:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.4.0-1bookworm) bookworm; urgency=high
+
+  * Changes to build against Fast DDS 3.0 (#5 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/5>)
+  * Contributors: Chris Lalancette, Miguel Company
+
+ -- Brandon Ong <brandon@openrobotics.org>  Wed, 05 Mar 2025 23:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.3.0-1bookworm) bookworm; urgency=high
+
+  * Drop support for long double/float128. (#6 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/6>)
+  * Contributors: Chris Lalancette
+
+ -- Brandon Ong <brandon@openrobotics.org>  Tue, 19 Nov 2024 23:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Brandon Ong <brandon@openrobotics.org>  Thu, 25 Apr 2024 22:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Brandon Ong <brandon@openrobotics.org>  Thu, 27 Apr 2023 22:00:00 -0000
+
+ros-rolling-rosidl-dynamic-typesupport-fastrtps (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Remove more unnecessary semicolons (#4 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/4>)
+  * Dynamic Subscription (BONUS: Allocators): rosidl_dynamic_typesupport_fastrtps (#3 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/3>)
+  * Remove unnecessary semicolons. (#2 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/2>)
+  * Runtime Interface Reflection: rosidl_dynamic_typesupport_fastrtps (#1 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/1>)
+  * Contributors: Chris Lalancette, methylDragon
+
+ -- Brandon Ong <brandon@openrobotics.org>  Mon, 10 Apr 2023 22:00:00 -0000
+
+
