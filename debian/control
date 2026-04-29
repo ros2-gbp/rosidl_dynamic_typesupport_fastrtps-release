@@ -1,0 +1,12 @@
+Source: ros-lyrical-rosidl-dynamic-typesupport-fastrtps
+Section: misc
+Priority: optional
+Maintainer: Brandon Ong <brandon@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake-ros-core, ros-lyrical-fastcdr, ros-lyrical-fastdds, ros-lyrical-rcpputils, ros-lyrical-rcutils, ros-lyrical-rosidl-dynamic-typesupport, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/rosidl_dynamic_typesupport_fastrtps/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rosidl-dynamic-typesupport-fastrtps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-fastcdr, ros-lyrical-fastdds, ros-lyrical-rcpputils, ros-lyrical-rcutils, ros-lyrical-rosidl-dynamic-typesupport, ros-lyrical-ros-workspace
+Description: FastDDS serialization support implementation for use with C/C++.
